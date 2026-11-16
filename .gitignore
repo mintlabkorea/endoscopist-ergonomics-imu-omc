@@ -1,0 +1,6 @@
+/data/
+/results/
+/config/
+__pycache__/
+*.py[cod]
+desktop.ini

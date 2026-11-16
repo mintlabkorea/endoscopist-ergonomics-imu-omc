@@ -44,4 +44,3 @@ The interactive menu provides processing, validation, and analysis options. For 
 
 Place compatible inputs under `data/imu/`, `data/omc/`, and `data/validation/`. Generated outputs are saved under `results/`.
 
-Data, generated results, and recording-specific configuration files are not included in this repository.

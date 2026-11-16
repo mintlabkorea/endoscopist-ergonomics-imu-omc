@@ -1,6 +1,6 @@
 # Quantitative Ergonomic Assessment of Endoscopists Using Wearable Inertial Measurement Units and Optical Motion Capture
 
-Sang Hyun Kim<sup>1,†</sup>, Sunin Baek<sup>2,†</sup>, Benjamin Hur<sup>2</sup>, Younghoon Bae<sup>2</sup>, Yuhyeon Lee<sup>2</sup>, Hyuk Soon Choi<sup>3,*</sup>, and Daekyum Kim<sup>2,4,*</sup>
+Sang Hyun Kim<sup>1,†</sup>, Sunin Baek<sup>2,†</sup>, Benjamin Hur<sup>2</sup>, Younghoon Bae<sup>2</sup>, Yuhyeon Lee<sup>2</sup>, Hyuk Soon Choi<sup>3,&#42;</sup>, and Daekyum Kim<sup>2,4,&#42;</sup>
 
 <sup>1</sup> Division of Gastroenterology, Department of Internal Medicine, Seoul St. Mary’s Hospital, College of Medicine, The Catholic University of Korea, Seoul, South Korea
 
@@ -12,7 +12,7 @@ Sang Hyun Kim<sup>1,†</sup>, Sunin Baek<sup>2,†</sup>, Benjamin Hur<sup>2</s
 
 <sup>†</sup> These authors contributed equally: Sang Hyun Kim and Sunin Baek.
 
-<sup>*</sup> Correspondence: [Hyuk Soon Choi](mailto:mdkorea@gmail.com) and [Daekyum Kim](mailto:daekyum@korea.ac.kr).
+<sup>&#42;</sup> Correspondence: [Hyuk Soon Choi](mailto:mdkorea@gmail.com) and [Daekyum Kim](mailto:daekyum@korea.ac.kr).
 
 ## Abstract
 
